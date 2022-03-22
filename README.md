@@ -14,8 +14,8 @@ This dataset is presented with **12** columns and **39408** rows
 ## Models
 1. Linear Regression
 2. Disicion Tree
-3. Support Vector Machine(SVM)
-4. Random Forest 
+3. Support Vector Machine Regressor(SVM)
+4. Random Forest Regressor
 
 ## Metrics
 * Mean Squared Error
